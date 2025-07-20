@@ -25,31 +25,6 @@ CareerLinker is a full-stack job portal web application that connects job seeker
 | React Router    | REST APIs        |             | Cloudinary (uploads)  |
 | Toast/Sonner    | JWT Auth         |             | Nodemon, Dotenv       |
 
-## 📦 Installation Guide
-
-1. **Clone the Repository**
-
-```bash
-git clone https://github.com/your-username/jobportal-yt.git
-cd jobportal-yt
-```
-
-2. **Backend Setup**
-
-```bash
-cd backend
-npm install
-npm run dev
-```
-
-3. **Frontend Setup**
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
 ## 🔐 Environment Variables
 
 ### Backend `.env`
@@ -62,10 +37,14 @@ CLOUDINARY_API_KEY=...
 CLOUDINARY_API_SECRET=...
 ```
 
-### Frontend `.env`
-```
-VITE_API_URL=http://localhost:8000/api/v1
-```
+## 🖼️ UI Preview & Interface Highlights
+
+### Home page
+<img width="1900" height="936" alt="Screenshot 2025-07-20 170315" src="https://github.com/user-attachments/assets/dd2dfab8-d01c-4767-9c35-5850c590b22b" />
+
+### Signup page
+<img width="1403" height="782" alt="Screenshot 2025-07-20 170421" src="https://github.com/user-attachments/assets/fca0eed6-5066-4355-a855-23366228b910" />
+
 
 ## 🧠 Key Learnings & Skills
 
